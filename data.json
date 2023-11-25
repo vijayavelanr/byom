@@ -1,7 +1,6 @@
 {
   "level": "1",
-  "steps" : [ 
-    "rounds" : [
+  "rounds" : [
       {
   "the": ["Please pass me the salt."],
   "of": ["The color of the sky changed as the sun set."],
@@ -114,8 +113,5 @@
   "may": ["You may use my laptop for your presentation."],
   "part": ["Being a part of the team is important."]
 }
-
-    ]
-
   ]
 }
