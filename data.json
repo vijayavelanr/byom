@@ -27,9 +27,6 @@
   "this": ["Can you pass me this book on the table?"],
   "have": ["I have a meeting scheduled for this afternoon."],
   "from": ["She received a gift from her grandparents."]
-}
-,
-      {
   "or": ["You can have tea or coffee for breakfast."],
   "one": ["I'll have one scoop of vanilla ice cream."],
   "had": ["She had a fantastic time at the party."],
@@ -55,9 +52,6 @@
   "how": ["How did you learn to play the guitar so well?"],
   "their": ["The children played with their toys in the yard."],
   "if": ["If it rains, we'll stay indoors."]
-}
-,
-      {
   "will": ["I will call you later."],
   "up": ["Please pick up your toys."],
   "other": ["I'll take the blue shirt; you can have the other one."],
@@ -84,9 +78,6 @@
   "go": ["We can go to the park this weekend."],
   "see": ["I hope to see you at the event."],
   "down": ["Please sit down and relax."]
-}
-,
-      {
   "number": ["I forgot the phone number; can you check it for me?"],
   "no": ["There's no milk left in the refrigerator."],
   "way": ["There is no easy way to solve this problem."],
